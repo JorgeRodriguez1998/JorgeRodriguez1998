@@ -14,7 +14,6 @@
 
 
 ## About me 
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on my Web Development journey  
   
@@ -27,15 +26,6 @@
 
 - ⚡ Fun fact: I love watching "La Rosa de Guadalupe"   
 
-
-</td><td valign="top" width="50%">
-
-<div align="right">
-<img src="https://media.giphy.com/media/3oEduEU5RQ4tkownmg/giphy.gif" align="right" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -55,6 +45,7 @@
 <img style="margin: 10px" src=/icon/premiere.png alt="Premiere Pro" height="50" />  
 </div>  
 
+
 <br/>  
 
 
@@ -72,14 +63,7 @@
 <br/>  
 
   
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
+<div align="center">
+<img src="https://media.giphy.com/media/3oEduEU5RQ4tkownmg/giphy.gif" style="width: 40%" />
+</div> 
 
