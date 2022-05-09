@@ -34,7 +34,6 @@
 <img style="margin: 10px" src=/icon/js.svg alt="JavaScript" height="50" /> 
 <img style="margin: 10px" src=/icon/nodejs.png alt="Node.js" height="50" /> 
 <img style="margin: 10px" src=/icon/c++.svg alt="C++" height="50" />  
-<img style="margin: 10px" src=/icon/c.svg alt="C" height="50" />  
 <img style="margin: 10px" src=/icon/python.svg alt="Python" height="50" />  
 <img style="margin: 10px" src=/icon/linux.svg alt="Linux" height="50" />  
 <img style="margin: 10px" src=/icon/arduino.png alt="Arduino" height="50" />  
